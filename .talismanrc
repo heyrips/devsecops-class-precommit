@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: terraform.tfvars
+  checksum: 47ef58ef5c8e085bf8410132f6d1739b53e451b7a1d050ee46daf0d10fad1510
+- filename: files/server_config.sh
+  checksum: 160422ad227401e177004d3835967c3c849db401a807dfc86750424e3c8b3fdd
+- filename: ec2.tf
+  checksum: 07861c362db6a31b7806985c6f55f96d783d1dab2f8c2cecfdfd8a4c2f205264
+version: ""
