@@ -35,4 +35,3 @@ repos:
     rev: 2.1.121
     hooks:
       - id: checkov
-        name: Checkov
